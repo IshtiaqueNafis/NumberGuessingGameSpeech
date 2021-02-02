@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a60fd2a0-54b8-4bcc-8327-d8ecc3a0e062" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/mic.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    <list default="true" id="a60fd2a0-54b8-4bcc-8327-d8ecc3a0e062" name="Default Changelist" comment="added css and html">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,12 +52,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612243384179</updated>
-      <workItem from="1612243385203" duration="402000" />
+      <workItem from="1612243385203" duration="1630000" />
     </task>
+    <task id="LOCAL-00001" summary="added css and html">
+      <created>1612243821882</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612243821882</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added css and html" />
+    <option name="LAST_COMMIT_MESSAGE" value="added css and html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1105" y="598" key="Github.ShareDialog" timestamp="1612243469594">
@@ -71,5 +80,9 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1012" y="405" key="Github.UntrackedFilesDialog/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1612243473897" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1612243824385">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1612243824385" />
   </component>
 </project>
